@@ -1,0 +1,16 @@
+﻿<Window x:Class="Scanline.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Scanline"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="515.6" Width="800" Background="Gainsboro">
+    <Grid>
+        <Canvas x:Name="g" HorizontalAlignment="Left" Height="372" Margin="10,10,0,0" VerticalAlignment="Top" Width="774" Background="White" MouseLeftButtonDown="g_MouseLeftButtonDown" MouseRightButtonDown="g_MouseRightButtonDown"/>
+        <Button x:Name="Reset" Content="RESET" HorizontalAlignment="Left" Margin="10,387,0,0" VerticalAlignment="Top" Width="774" Height="27" Click="Reset_Click"/>
+        <Label Content="Left button = add point" HorizontalAlignment="Left" Margin="10,419,0,0" VerticalAlignment="Top" Width="774" Height="27"/>
+        <Label Content="Right button = close &amp; draw" HorizontalAlignment="Left" Margin="10,446,0,0" VerticalAlignment="Top" Width="774" Height="27"/>
+
+    </Grid>
+</Window>

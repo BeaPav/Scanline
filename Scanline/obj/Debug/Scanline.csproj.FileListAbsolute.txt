@@ -1,0 +1,30 @@
+D:\Škola\Počítačová grafika\PDU3\PDU3-Pavlovicova\Scanline\bin\Debug\Scanline.exe.config
+D:\Škola\Počítačová grafika\PDU3\PDU3-Pavlovicova\Scanline\bin\Debug\Scanline.exe
+D:\Škola\Počítačová grafika\PDU3\PDU3-Pavlovicova\Scanline\bin\Debug\Scanline.pdb
+D:\Škola\Počítačová grafika\PDU3\PDU3-Pavlovicova\Scanline\obj\Debug\Scanline.csproj.AssemblyReference.cache
+D:\Škola\Počítačová grafika\PDU3\PDU3-Pavlovicova\Scanline\obj\Debug\MainWindow.g.cs
+D:\Škola\Počítačová grafika\PDU3\PDU3-Pavlovicova\Scanline\obj\Debug\App.g.cs
+D:\Škola\Počítačová grafika\PDU3\PDU3-Pavlovicova\Scanline\obj\Debug\Scanline_MarkupCompile.cache
+D:\Škola\Počítačová grafika\PDU3\PDU3-Pavlovicova\Scanline\obj\Debug\Scanline_MarkupCompile.lref
+D:\Škola\Počítačová grafika\PDU3\PDU3-Pavlovicova\Scanline\obj\Debug\MainWindow.baml
+D:\Škola\Počítačová grafika\PDU3\PDU3-Pavlovicova\Scanline\obj\Debug\Scanline.g.resources
+D:\Škola\Počítačová grafika\PDU3\PDU3-Pavlovicova\Scanline\obj\Debug\Scanline.Properties.Resources.resources
+D:\Škola\Počítačová grafika\PDU3\PDU3-Pavlovicova\Scanline\obj\Debug\Scanline.csproj.GenerateResource.cache
+D:\Škola\Počítačová grafika\PDU3\PDU3-Pavlovicova\Scanline\obj\Debug\Scanline.csproj.CoreCompileInputs.cache
+D:\Škola\Počítačová grafika\PDU3\PDU3-Pavlovicova\Scanline\obj\Debug\Scanline.exe
+D:\Škola\Počítačová grafika\PDU3\PDU3-Pavlovicova\Scanline\obj\Debug\Scanline.pdb
+D:\Škola\1mMPG - Z\Počítačová grafika\PDU3\PDU3-Pavlovicova\Scanline\bin\Debug\Scanline.exe.config
+D:\Škola\1mMPG - Z\Počítačová grafika\PDU3\PDU3-Pavlovicova\Scanline\bin\Debug\Scanline.exe
+D:\Škola\1mMPG - Z\Počítačová grafika\PDU3\PDU3-Pavlovicova\Scanline\bin\Debug\Scanline.pdb
+D:\Škola\1mMPG - Z\Počítačová grafika\PDU3\PDU3-Pavlovicova\Scanline\obj\Debug\Scanline.csproj.AssemblyReference.cache
+D:\Škola\1mMPG - Z\Počítačová grafika\PDU3\PDU3-Pavlovicova\Scanline\obj\Debug\MainWindow.g.cs
+D:\Škola\1mMPG - Z\Počítačová grafika\PDU3\PDU3-Pavlovicova\Scanline\obj\Debug\App.g.cs
+D:\Škola\1mMPG - Z\Počítačová grafika\PDU3\PDU3-Pavlovicova\Scanline\obj\Debug\Scanline_MarkupCompile.cache
+D:\Škola\1mMPG - Z\Počítačová grafika\PDU3\PDU3-Pavlovicova\Scanline\obj\Debug\Scanline_MarkupCompile.lref
+D:\Škola\1mMPG - Z\Počítačová grafika\PDU3\PDU3-Pavlovicova\Scanline\obj\Debug\MainWindow.baml
+D:\Škola\1mMPG - Z\Počítačová grafika\PDU3\PDU3-Pavlovicova\Scanline\obj\Debug\Scanline.g.resources
+D:\Škola\1mMPG - Z\Počítačová grafika\PDU3\PDU3-Pavlovicova\Scanline\obj\Debug\Scanline.Properties.Resources.resources
+D:\Škola\1mMPG - Z\Počítačová grafika\PDU3\PDU3-Pavlovicova\Scanline\obj\Debug\Scanline.csproj.GenerateResource.cache
+D:\Škola\1mMPG - Z\Počítačová grafika\PDU3\PDU3-Pavlovicova\Scanline\obj\Debug\Scanline.csproj.CoreCompileInputs.cache
+D:\Škola\1mMPG - Z\Počítačová grafika\PDU3\PDU3-Pavlovicova\Scanline\obj\Debug\Scanline.exe
+D:\Škola\1mMPG - Z\Počítačová grafika\PDU3\PDU3-Pavlovicova\Scanline\obj\Debug\Scanline.pdb
